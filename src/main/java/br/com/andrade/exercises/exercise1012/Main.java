@@ -11,9 +11,7 @@ public class Main {
         DecimalFormat df = new DecimalFormat("0.000");
         final double PI = 3.14159;
 
-        String[] input = new String[3];
-
-        input = sc.nextLine().split(" ");
+        String[] input = sc.nextLine().split(" ");
 
         double A = Double.parseDouble(input[0]);
         double B = Double.parseDouble(input[1]);

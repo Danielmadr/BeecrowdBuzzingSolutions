@@ -8,9 +8,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 
-        int dist = sc.nextInt();//km
-        int X = 60;//km/h
-        int Y = 90;//km/h
+        int dist = sc.nextInt();
 
         int temp = dist * 2;
 
