@@ -1,4 +1,4 @@
-package main.java.br.com.andrade.exercises.exercise1035;
+package main.java.br.com.andrade.beginner.exercise1035;
 
 import java.io.IOException;
 

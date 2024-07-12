@@ -1,4 +1,4 @@
-package main.java.br.com.andrade.exercises.exercise1014;
+package main.java.br.com.andrade.beginner.exercise1014;
 
 import java.io.IOException;
 import java.text.DecimalFormat;
